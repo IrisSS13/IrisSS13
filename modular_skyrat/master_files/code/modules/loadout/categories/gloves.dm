@@ -106,11 +106,6 @@
 	name = "Diamond Ring"
 	item_path = /obj/item/clothing/gloves/ring/diamond
 
-/*
-*	DONATOR
-*/
-
 /datum/loadout_item/gloves/military
 	name = "Military Gloves"
 	item_path = /obj/item/clothing/gloves/military
-	donator_only = TRUE
